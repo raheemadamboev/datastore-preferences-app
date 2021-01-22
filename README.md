@@ -1,5 +1,5 @@
 # datastore-preferences-app
-Simple app to save values in Data Store Preferences
+Simple app to save values in Jetpack Data Store Preferences
 
 **DataStore Preferences**
 
